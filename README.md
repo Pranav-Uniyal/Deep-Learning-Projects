@@ -10,7 +10,7 @@ This repository contains my projects based on **Deep Learning**, focusing on are
 |----------------------------------|-----------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------------|
 | **DeepFake Detection**           | Detects fake faces in videos using CNNs and video frame analysis with Streamlit frontend. | CNN, TensorFlow, OpenCV, Streamlit             | [GitHub](https://github.com/Pranav-Uniyal/DeepFake_Detection)  |
 | **Movie Review Sentiment Analysis** | Analyzes movie reviews (text) using NLP to determine if the sentiment is positive or negative. | NLP, TensorFlow, LSTM, Streamlit               | [GitHub](https://github.com/Pranav-Uniyal/Movie-Review-Sentimental-Analysis) |
-| **Plant Disease Classification** | Classifies plant leaf images into diseases (38 classes) using CNNs for agricultural diagnosis. | CNN, Keras, Image Processing                    | [GitHub]() |
+| **Plant Disease Classification** | Classifies plant leaf images into diseases (38 classes) using CNNs for agricultural diagnosis. | CNN, Keras, Image Processing                    | [GitHub](https://github.com/Pranav-Uniyal/Plant-Disease-Prediction) |
 
 ---
 
